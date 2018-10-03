@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="ru.offenso.foilguard.dev">
+        <permission name="android.permission.DELETE_PACKAGES"/>
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+        <permission name="android.permission.CAPTURE_AUDIO_OUTPUT"/>
+    </privapp-permissions>
+</permissions>
